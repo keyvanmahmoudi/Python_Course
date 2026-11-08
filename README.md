@@ -61,7 +61,7 @@ jupyter notebook
 
 ## مدرس
 
-**کیوان محمودی**، دانشجوی دکتری پردازش زبان طبیعی، دانشگاه تهران
+**کیوان محمودی**، دانشجوی دکتری مهندسی کامپیوتر گرایش نرم افزار، دانشگاه تهران
 [LinkedIn](https://www.linkedin.com/in/keyvan-mahmoudi-7b3280103) · [Hugging Face](https://huggingface.co/KeyvanMahmoudi)
 
 ## مجوز
