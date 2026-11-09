@@ -40,7 +40,7 @@
 | ۳ | [یادگیری ماشین](https://github.com/keyvanmahmoudi/Machine_Learning_Course) |
 | ۴ | [یادگیری عمیق و شبکه‌های عصبی](https://github.com/keyvanmahmoudi/Deep_Learning_Course) |
 | ۵ | [مهندسی مدل‌های زبانی بزرگ (LLM)](https://github.com/keyvanmahmoudi/LLM_Engineering_Course) و برنامه‌نویسی با کمک هوش مصنوعی (Vibe Coding) |
-| ۶ | ساخت محصول هوش مصنوعی با FastAPI و کسب درآمد |
+| ۶ | [ساخت محصول هوش مصنوعی با FastAPI](https://github.com/keyvanmahmoudi/AI_Product_Course) و کسب درآمد |
 
 ## اجرا
 
