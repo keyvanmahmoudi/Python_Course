@@ -15,11 +15,11 @@
 | جلسه | موضوع | درس | پاسخ‌ها | اسلاید |
 |---|---|---|---|---|
 | ۱ | آشنایی با پایتون و محیط‌های برنامه‌نویسی | [نوت‌بوک](sessions/Session01_introduction.ipynb) | [پاسخ تمرین‌ها](solutions/Session01_introduction_solutions.ipynb) | [اسلاید](slides/Session01_introduction.pptx) |
-| ۲ | [علم داده: NumPy، pandas، مصورسازی، SQL و آمار کاربردی](https://github.com/keyvanmahmoudi/Data_Science_Course) |
-| ۳ | [یادگیری ماشین](https://github.com/keyvanmahmoudi/Machine_Learning_Course) |
-| ۴ | [یادگیری عمیق و شبکه‌های عصبی](https://github.com/keyvanmahmoudi/Deep_Learning_Course) |
-| ۵ | [مهندسی مدل‌های زبانی بزرگ (LLM) و برنامه‌نویسی با کمک هوش مصنوعی (Vibe Coding)](https://github.com/keyvanmahmoudi/LLM_Engineering_Course) |
-| ۶ | [ساخت محصول هوش مصنوعی با FastAPI و کسب درآمد](https://github.com/keyvanmahmoudi/AI_Product_Course) |
+| ۲ | متغیرها، انواع داده و عملگرها | [نوت‌بوک](sessions/Session02_variables_and_types.ipynb) | [پاسخ تمرین‌ها](solutions/Session02_variables_and_types_solutions.ipynb) | [اسلاید](slides/Session02_variables_and_types.pptx) |
+| ۳ | رشته‌ها و قالب‌بندی متن | [نوت‌بوک](sessions/Session03_strings.ipynb) | [پاسخ تمرین‌ها](solutions/Session03_strings_solutions.ipynb) | [اسلاید](slides/Session03_strings.pptx) |
+| ۴ | شرط‌ها و تصمیم‌گیری | [نوت‌بوک](sessions/Session04_conditions.ipynb) | [پاسخ تمرین‌ها](solutions/Session04_conditions_solutions.ipynb) | [اسلاید](slides/Session04_conditions.pptx) |
+| ۵ | حلقه‌ها و تکرار | [نوت‌بوک](sessions/Session05_loops.ipynb) | [پاسخ تمرین‌ها](solutions/Session05_loops_solutions.ipynb) | [اسلاید](slides/Session05_loops.pptx) |
+| ۶ | لیست‌ها | [نوت‌بوک](sessions/Session06_lists.ipynb) | [پاسخ تمرین‌ها](solutions/Session06_lists_solutions.ipynb) | [اسلاید](slides/Session06_lists.pptx) |
 | ۷ | تاپل و مجموعه | [نوت‌بوک](sessions/Session07_tuples_and_sets.ipynb) | [پاسخ تمرین‌ها](solutions/Session07_tuples_and_sets_solutions.ipynb) | [اسلاید](slides/Session07_tuples_and_sets.pptx) |
 | ۸ | دیکشنری | [نوت‌بوک](sessions/Session08_dictionaries.ipynb) | [پاسخ تمرین‌ها](solutions/Session08_dictionaries_solutions.ipynb) | [اسلاید](slides/Session08_dictionaries.pptx) |
 | ۹ | توابع (۱) | [نوت‌بوک](sessions/Session09_functions.ipynb) | [پاسخ تمرین‌ها](solutions/Session09_functions_solutions.ipynb) | [اسلاید](slides/Session09_functions.pptx) |
