@@ -36,10 +36,10 @@
 | ترم | دوره |
 |---|---|
 | ۱ | **برنامه‌نویسی پایتون** (همین دوره) |
-| ۲ | علم داده: NumPy، pandas، مصورسازی، SQL و آمار کاربردی |
+| ۲ | [علم داده](https://github.com/keyvanmahmoudi/Data_Science_Course): NumPy، pandas، مصورسازی، SQL و آمار کاربردی |
 | ۳ | [یادگیری ماشین](https://github.com/keyvanmahmoudi/Machine_Learning_Course) |
-| ۴ | یادگیری عمیق و شبکه‌های عصبی |
-| ۵ | مهندسی مدل‌های زبانی بزرگ (LLM) و برنامه‌نویسی با کمک هوش مصنوعی (Vibe Coding) |
+| ۴ | [یادگیری عمیق و شبکه‌های عصبی](https://github.com/keyvanmahmoudi/Deep_Learning_Course) |
+| ۵ | [مهندسی مدل‌های زبانی بزرگ (LLM)](https://github.com/keyvanmahmoudi/LLM_Engineering_Course) و برنامه‌نویسی با کمک هوش مصنوعی (Vibe Coding) |
 | ۶ | ساخت محصول هوش مصنوعی با FastAPI و کسب درآمد |
 
 ## اجرا
